@@ -318,6 +318,6 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python,django
 
 venv/ 
+
 db.sqlite3/
-forStudy/__pycache__
-monster/__pycache__
+*.__pycache__
